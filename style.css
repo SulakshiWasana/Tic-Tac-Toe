@@ -4,4 +4,8 @@
     font-family: "Itim", cursive;
 }
 
-
+.background{
+    background-color: #3F3F3F;
+    height: 100vh;
+    padding-top: 1px;
+}
